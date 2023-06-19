@@ -1,0 +1,77 @@
+Question 1:
+Which statement is true about mobile websites?
+1. Mobile websites are optimized for all devices that you may use when traveling.
+2. Mobile websites are optimized for mobile devices only.
+
+RIGHT OPTION(--2--)
+
+Question 2:
+Which is true about mobile apps when compared to mobile websites?
+1. Mobile apps can be cheaper to build.
+2. Mobile apps are more difficult to maintain.
+3. Mobile apps are compatible with all mobile platforms.
+
+RIGHT OPTION(--3--)
+
+
+Question 3:
+What is an Xcode project a repository for?
+Select all that apply.
+1. Information to build the app.
+2. Resources.
+3. Files.
+
+RIGHT OPTION(--1,2,3--)
+
+Question 4:
+True or false: Swift is a scalable language.
+
+RIGHT OPTION(--True--)
+
+Question 5:
+In order to run a simulator, what do you need to check is available on your system?
+Select all that apply.
+1. Adequate memory.
+2. Adequate USB ports.
+3. Adequate storage space.
+
+RIGHT OPTION(--1,3--)
+
+
+Question 6:
+True or False: Sublime is the standard Integrated Development Environment (IDE) for developing applications for Apple devices.
+
+RIGHT OPTION(--False--)
+
+
+Question 7:
+Which View is used to vertically display one or more reusable elements in a scrollable manner?
+1. LinearView.
+2. GridView.
+3. TableView.
+
+RIGHT OPTION(--3--)
+
+Question 8:
+Which of the following components serve as fundamental building blocks of any iOS app?
+Select all that apply.
+1. UIApplication.
+2. UIApplicationDelegate.
+3. UILoader.
+4. ViewController.
+
+RIGHT OPTION(--1,2,4--)
+
+Question 9:
+Is ViewController used to manage your UIKit app's interface?
+1. No.
+2. Yes.
+
+RIGHT OPTION(--Yes--)
+
+Question 10:
+Do the Xcode configuration files define the behavior of the user interface?
+1. Yes.
+2. No.
+
+RIGHT OPTION(--No--)
