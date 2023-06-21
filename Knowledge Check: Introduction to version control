@@ -1,0 +1,26 @@
+**Question 1**
+Which of the following are the benefits of using Version Control? 
+
+Select all that apply.
+
+1.Identity
+
+Correct
+Correct! Version Control allows you to identify who made changes to a file, when they were made and what changes occurred.
+
+
+2.Revert / Rollback
+
+Correct
+Correct! Version Control allows you to set your files to a previous state at a specific point in time.
+
+
+3.Collaboration
+
+Correct
+Correct! Version Control allows multiple developers to collaborate on a codebase with each other.
+
+Right option(-------1,2,3)
+
+
+
